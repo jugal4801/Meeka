@@ -236,6 +236,16 @@ button,
   background-image: none;
   /* 2 */
 }
+[data-lucide] {
+  width: 37px;
+  height: 37px;
+  display: inline-block;
+  stroke-width: 2;
+  stroke: white;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
 
 /*
 Use the modern Firefox focus style for all focusable elements.
